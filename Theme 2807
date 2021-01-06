@@ -12,11 +12,14 @@ see this theme in action: theme-2807.tumblr.com
 script from floatingdino on github 
 
 To use this theme:
-1. Go to your blogs settings page and dlick on "Edit theme". Or, go to your blog an click the "Customize"-button in the top right corner.
-2. Click on "Edit HTML".
+
+1. Go to your blog's settings page and dlick on "Edit theme". Or, go to your blog an click the "Customize"-button in the top right corner.
+2. Click on "Edit HTML" at the tom.
 3. Delete the earlier code.
-4. Copy and paste this code, click on "Update Preview" and "Save".
-5. Go back one step and adjust the theme to your liking.
+4. Copy and paste the theme's code, click on "Update Preview" and "Save".
+5. Go back one step and adjust the theme to your liking. Save.
+6. Click on "Advanced Options" at the bottom and disable "Use default mobile theme". Save. 
+7. If you want to use custom css, for example on an about-page, add custom css in "Advanced Options" and save.
 
 If you have any questions, you can contact me on blvehecate@gmail.com or blvehecate.tumblr.com.
 
